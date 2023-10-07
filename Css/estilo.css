@@ -27,7 +27,7 @@
 }
 
 form {
-  color: white;
+  color: black;
   margin: 100px 100px 100px 20px;
   text-align: center;
 }
@@ -48,7 +48,7 @@ form {
 
 /********GENERAL*********/
 body {
-  background-image: url(/img/fondo.jpg);
+  background-color: beige;
   font-family: "Roboto", sans-serif;
 }
 
@@ -78,6 +78,7 @@ a {
   display: inline-block;
   margin: 50px;
   color: burlywood;
+
 }
 
 .carousel-item {
