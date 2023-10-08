@@ -52,6 +52,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+
 .mifondo {
   background-color: #fafafa;
   height: 55px;
@@ -72,6 +73,7 @@ a {
   /*borrar subrrayado*/
   text-transform: uppercase;
   /*mayuscula*/
+  
 }
 
 .nav-item {
@@ -81,14 +83,7 @@ a {
 
 }
 
-.carousel-item {
-  height: 500px;
-  flex-wrap: wrap;
-}
 
-.carousel-item active {
-  height: 400px;
-}
 
 .milogo {
   width: 35px;
